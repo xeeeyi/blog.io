@@ -1,7 +1,2 @@
 encoding: utf-8
-<<<<<<< HEAD
-baseurl : /
-=======
-
-theme: jekyll-theme-leap-day
->>>>>>> 1c062b3523f1aa1de5537fd0898a7756409afda4
+theme: slate
